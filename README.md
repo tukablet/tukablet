@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning the same JS
 - 💞️ I’m looking to collaborate with anyone for earning exp
-Hope that my work doesn't needlessly
+- Hope that my work doesn't needlessly
 
 <!---
 tukablet/tukablet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
